@@ -1,3 +1,7 @@
+![Captura de tela 2025-06-27 030318](https://github.com/user-attachments/assets/ad323966-f378-41e0-ac03-dbc8dd2f5402)
+![Captura de tela 2025-06-27 030323](https://github.com/user-attachments/assets/760cb6a6-2716-42d7-ae00-dc966fee6549)
+![Captura de tela 2025-06-27 030327](https://github.com/user-attachments/assets/f9a4ff04-1b1a-4b65-a232-f457904253d5)
+![Captura de tela 2025-06-27 030331](https://github.com/user-attachments/assets/007671a7-e02c-40c4-be0b-ad8cbb6608cb)
 Descrição
 Este projeto consiste na criação de uma planilha profissional em Excel para controle e organização dos dados necessários à declaração do Imposto de Renda Pessoa Física (IRPF). A ferramenta foi desenvolvida para facilitar o registro de rendimentos, deduções, saldos bancários e simulação do imposto devido, tornando o processo mais prático, seguro e transparente.
 Ideal para quem busca uma solução eficiente para centralizar informações fiscais e otimizar o preenchimento da declaração anual, agregando valor ao portfólio profissional.
